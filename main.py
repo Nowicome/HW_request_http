@@ -15,7 +15,7 @@ if __name__ == "__main__":
                      body of program in HW_YaD.py
     """
     # Получить путь к загружаемому файлу и токен от пользователя
-    path_to_file = "av/test.txt"  # Where is file
+    path_to_file = "test.txt"  # Where is file
     token = "y0_AgAAAABpldqzAADLWwAAAADflhhT5SQ_o8AeRYGVOAzkZKPPK2iuBAA"
 
     if "/" in path_to_file:
